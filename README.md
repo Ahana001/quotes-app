@@ -10,4 +10,6 @@ Simple Node.js Quote app for displaying famous quotes with Javascript hover and 
         npm install 
 
 # Run
-        node start
+        node index.js
+      
+this application should now be running on [localhost](http://localhost:3000/)
